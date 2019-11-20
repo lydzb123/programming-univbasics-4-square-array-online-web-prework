@@ -4,6 +4,3 @@ def square_array(array)
   puts array[counter].sqrt
     counter += 1
   end
-end
-
-p square_array([1,2,3])
