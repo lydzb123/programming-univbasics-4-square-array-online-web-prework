@@ -4,6 +4,3 @@ def square_array(array)
   puts array[counter] * array[counter]
     counter += 1
   end
-
-numbers = [1, 2, 3, 4, 5]
-p square_array(numbers)
