@@ -5,4 +5,5 @@ def square_array(array)
     counter += 1
   end
 
-p square_array([1,2,3])
+numbers = [1, 2, 3, 4, 5]
+p square_array(numbers)
